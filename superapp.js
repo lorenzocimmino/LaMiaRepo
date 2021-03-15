@@ -1,0 +1,1 @@
+console.log(la mia prima app per ora va bene);
