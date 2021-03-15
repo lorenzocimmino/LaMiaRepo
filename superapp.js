@@ -1,1 +1,1 @@
-console.log(la mia prima app per ora va bene);
+console.log('la mia prima app per ora va bene');
